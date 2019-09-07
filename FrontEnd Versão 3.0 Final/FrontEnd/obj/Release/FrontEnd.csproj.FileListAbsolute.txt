@@ -1,0 +1,304 @@
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe.config
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\bin\Release\FrontEnd.pdb
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.login.resources
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.Principal.resources
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
+C:\Users\Leticia\Desktop\leo(zin)\coisas importantes\etec\TCM 1º módulo\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe.config
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.pdb
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csprojAssemblyReference.cache
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.login.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Principal.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Calendario.resources
+C:\Users\1binfo\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.PDV.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe.config
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\bin\Release\FrontEnd.pdb
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Calendario.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.login.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Principal.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.PDV.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Config.resources
+C:\Users\Leticia\Documents\pinscher-do-demonio\leonhard_C#\FrontEnd\FrontEnd\obj\Release\FrontEnd.Estoque.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe.config
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\FrontEnd.pdb
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Calendario.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Config.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Estoque.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.login.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Principal.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.CadastrarFuncionario.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.CadastraFornecedor.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Pedido.resources
+C:\Users\Matiasus\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.FinalizarPedido.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe.config
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\FrontEnd.exe
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\FrontEnd.pdb
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\netstandard.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.AppContext.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Collections.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Collections.Specialized.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.ComponentModel.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Console.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Data.Common.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Globalization.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.Compression.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.FileSystem.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.Pipes.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Linq.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Linq.Expressions.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Linq.Parallel.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Linq.Queryable.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.Http.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.NameResolution.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.Ping.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.Requests.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.Security.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.Sockets.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Net.WebSockets.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.ObjectModel.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Reflection.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Resources.Reader.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Resources.Writer.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Handles.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Claims.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.Principal.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Security.SecureString.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Text.Encoding.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.Tasks.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.Thread.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Threading.Timer.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.ValueTuple.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Xml.XDocument.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Xml.XPath.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe.config
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.CadastraFornecedor.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.CadastrarFuncionario.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Calendario.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Config.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Estoque.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.login.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Principal.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.FinalizarPedido.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Pedido.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\XamlC.stamp
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.csproj.CopyComplete
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.exe
+C:\Users\Leticia\Desktop\TCM\FrontEnd\FrontEnd\obj\Release\FrontEnd.pdb
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.csprojAssemblyReference.cache
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.exe.config
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.CadastraFornecedor.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.CadastrarFuncionario.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.Calendario.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.Config.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.Estoque.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.login.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.Principal.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.FinalizarPedido.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.Pedido.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.Properties.Resources.resources
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.csproj.GenerateResource.cache
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.csproj.CoreCompileInputs.cache
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.exe
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.pdb
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\FrontEnd.exe.config
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\FrontEnd.exe
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\FrontEnd.pdb
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Microsoft.Win32.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\netstandard.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.AppContext.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Collections.Concurrent.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Collections.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Collections.NonGeneric.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Collections.Specialized.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.ComponentModel.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.ComponentModel.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Console.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Data.Common.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.Contracts.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.Debug.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.Process.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.StackTrace.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.Tools.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.TraceSource.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Diagnostics.Tracing.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Drawing.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Dynamic.Runtime.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Globalization.Calendars.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Globalization.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Globalization.Extensions.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.Compression.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.Compression.ZipFile.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.FileSystem.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.IsolatedStorage.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.Pipes.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Linq.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Linq.Expressions.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Linq.Parallel.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Linq.Queryable.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.Http.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.NameResolution.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.NetworkInformation.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.Ping.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.Requests.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.Security.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.Sockets.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.WebHeaderCollection.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.WebSockets.Client.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Net.WebSockets.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.ObjectModel.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Reflection.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Reflection.Extensions.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Reflection.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Resources.Reader.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Resources.ResourceManager.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Resources.Writer.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Extensions.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Handles.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.InteropServices.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Numerics.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Serialization.Json.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Claims.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Cryptography.Csp.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.Principal.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Security.SecureString.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Text.Encoding.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Text.Encoding.Extensions.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Text.RegularExpressions.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.Overlapped.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.Tasks.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.Thread.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.ThreadPool.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Threading.Timer.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.ValueTuple.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Xml.ReaderWriter.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Xml.XDocument.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Xml.XmlDocument.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Xml.XmlSerializer.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Xml.XPath.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\System.Xml.XPath.XDocument.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Core.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Platform.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Xaml.dll
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Core.pdb
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Core.xml
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\FrontEnd Versão 3.0 Final\FrontEnd\bin\Release\Xamarin.Forms.Xaml.xml
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\XamlC.stamp
+D:\FrontEnd Versão 3.0 Final\FrontEnd\obj\Release\FrontEnd.csproj.CopyComplete
